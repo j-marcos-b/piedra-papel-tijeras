@@ -21,3 +21,10 @@ h2 {
 #puntuacion {
     text-align: center;
 }
+
+#piedra,
+#papel,
+#tijeras {
+    width: 100px;
+    cursor: pointer;
+}
